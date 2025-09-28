@@ -37,7 +37,7 @@ Endpoints principales utilizados:
 
 📽️ Aquí puedes ver un recorrido de la app en acción:  
 
-👉 [https://youtu.be/5EvwRw6yZgs](https://youtube.com/)  
+👉 [Video Explicacion](https://youtu.be/5EvwRw6yZgs)  
 
 ---
 
